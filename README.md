@@ -13,6 +13,8 @@ git clone https://github.com/crpytoscooby/password-manager/tree/main.git
 
 ```python
 python manager.py
+
+Enter the password as 123456
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
